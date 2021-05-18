@@ -13,7 +13,7 @@
   },
   "scripts": {
     "test": "echo 'No tests yet...'",
-    "build": "./node_modules/webpack/bin/webpack.js --progress --color"
+    "build": "webpack --progress --color"
   },
   "repository": {
     "type": "git",
